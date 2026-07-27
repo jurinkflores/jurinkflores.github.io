@@ -41,3 +41,5 @@ I offer rigorous quantitative and qualitative work, helping organisations genera
 
 I design systems to be understood, maintained, and reused, not just delivered. This means collaborative design with client input from the outset, transparent methods rather than black-box outputs, and knowledge transfer embedded throughout the project.
 
+## Selected work
+
