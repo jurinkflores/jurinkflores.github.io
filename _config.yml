@@ -16,7 +16,7 @@ header:
 
 footer:
   show_powered_by: true
-  follow:
+  contact:
     - type: linkedin
       name: LinkedIn
       link: http://linkedin.com/in/jurin-katayama-flores
